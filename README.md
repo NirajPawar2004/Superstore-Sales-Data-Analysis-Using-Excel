@@ -14,6 +14,12 @@
         <h1>Superstore Sales Data Analysis Using Excel</h1>
     </header>
     <section id="project-details">
+              <h3>Conducted in-depth time-based analysis on Superstore order data using Excel.
+                  Explored sales trends, customer demographics, top products, and
+ sales/profit metrics. Created a visually
+ engaging MS Excel Dashboard employing
+ Pivot Tables and Pivot Charts for intuitive
+ data interpretation. </h3>
         <div class="project-image">
             <!-- Replace the source attribute with the actual path to your project image -->
             <img src="https://raw.githubusercontent.com/NirajPawar2004/Superstore-Sales-Data-Analysis-Using-Excel/main/SuperStore%20Orders%20Data%20Analysis%20Dashboard_pages-to-jpg-0001.jpg"
@@ -34,8 +40,5 @@
             </ul>
         </div>
     </section>
-    <footer>
-        <p>&copy; 2024 Niraj Pawar</p>
-    </footer>
 </body>
 </html>
